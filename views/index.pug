@@ -1,0 +1,39 @@
+doctype html
+html
+  head
+    title=shortname
+     
+    style
+      include style.css
+  body
+    script 
+      include jquery.js
+    script 
+      include scripts.js
+ 
+center
+   h1=name
+    
+    div
+      img(src=img1).cl
+      hr
+      img(src=img2).cl2
+      img(src=img3).cl1
+    hr
+    //- H1=del
+    h5=about
+    Hr
+    h3=GofI
+    h4= "Population: " + pop
+    h2 List of Delicacies:
+    each item in del
+      li= item
+    h2 Ratings:
+    span#rate=rateAverage
+    br
+
+    button="1" 
+    button="2" 
+    button="3" 
+    button="4" 
+    button="5" 

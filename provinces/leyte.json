@@ -1,0 +1,15 @@
+
+{
+    
+    "image1":"/images/ley1.jpg",
+     "image2":"/images/ley2.jpg",
+     "image3":"/images/ley3.jpg",
+    "name_of_province":"Province of Leyte",
+    "about":"Leyte,island, one of the visayan group in the central Philippines, lying east of Cebu and Bohol across the Caotes Sea. It is lies southwest of the island of Samar, with it is linked by a 7,093-foot bridge across the narrow San Juanico Strait. The Samar and Bohol seas lie to the north and south, and Leyte Gulf occupies a large basin between eastern Leyte and southern Samar Island. ",
+    "shortname":"leyte",
+    "aveRate":0,
+    "groupOfIsland":"Visayas",
+    "population":" 1313560",
+     "delicacies":["chicharon","lechon","otap"]
+    
+}
